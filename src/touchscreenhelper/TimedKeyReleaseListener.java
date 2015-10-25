@@ -1,4 +1,4 @@
-package utils;
+package touchscreenhelper;
 
 // Thanks to http://www.arco.in-berlin.de/keyevent.html
 // (code simplified here)
